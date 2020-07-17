@@ -19,3 +19,5 @@ Bienvenidos a la organización oficial de CEEINF, creada para organizar el desar
 
 
 ### Capacitación 2 - GitHub & Git
+
+HOla gente
