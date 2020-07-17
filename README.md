@@ -24,6 +24,13 @@ Bienvenidos a la organización oficial de CEEINF, creada para organizar el desar
 
 ### Chalo super mechon
 
+###Cambio 1
 
 * Aprendemos cómo usar git
+
 ### Cree ramita Mataya
+* GitHub Desktop >>>>>>>> git CL
+### Chalo pasa mate luego
+### ayuda no sé que estoy haciendo
+### bien chalo, así me gusta
+
