@@ -16,3 +16,6 @@ Bienvenidos a la organización oficial de CEEINF, creada para organizar el desar
 ### Capacitación 1 - Introducción de Historias de Usuario, Tablero Kanban y SCRUM
 
 [![Introducción de Historias de Usuario, Tablero Kanban y SCRUM](https://img.youtube.com/vi/zo6dTz2xjdY/0.jpg)](https://www.youtube.com/watch?v=zo6dTz2xjdY "Introducción de Historias de Usuario, Tablero Kanban y SCRUM")
+
+
+### Capacitación 2 - GitHub & Git
