@@ -21,3 +21,4 @@ Bienvenidos a la organización oficial de CEEINF, creada para organizar el desar
 ### Capacitación 2 - GitHub & Git
 
 * Aprendemos cómo usar git
+* Si ves esto quiere decir que aprendí a usar Git
