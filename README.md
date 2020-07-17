@@ -19,5 +19,15 @@ Bienvenidos a la organización oficial de CEEINF, creada para organizar el desar
 
 
 ### Capacitación 2 - GitHub & Git
+<<<<<<< HEAD
 ---
 #### no sé que poner 
+=======
+
+### Capacitación 3 - Ramificación
+__esto será nefasto__
+### Chalo super mechon
+
+
+* Aprendemos cómo usar git
+>>>>>>> b1e4ba6ebe9a37d90c246b800f055a52c1771a18
