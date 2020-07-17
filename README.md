@@ -24,7 +24,6 @@ Bienvenidos a la organización oficial de CEEINF, creada para organizar el desar
 
 ### Chalo super mechon
 
-###Cambio 1
 
 * Aprendemos cómo usar git
 ### Chalo pasa mate luego
